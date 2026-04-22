@@ -55,7 +55,7 @@ The objective is to identify key churn drivers, high-risk customer segments, and
 ---
 
 ##  Repository Structure  
-FUTURE_DS_02/
+customer-churn-analysis/
 │
 ├── Customer_Churn_Analysis.ipynb
 ├── README.md
@@ -66,8 +66,6 @@ FUTURE_DS_02/
 ##  Business Impact  
 
 Customer retention analytics directly impacts revenue growth, customer lifetime value (CLV), and long-term business sustainability.  
-
-This project demonstrates practical, business-driven data analysis aligned with real SaaS and subscription-based company use cases.
 
 ---
 
